@@ -23,5 +23,5 @@ with a focus on Cyber Cell / Investigation mindset.
 
 ## Disclaimer
 This repository is for educational and ethical learning only.
-No illegal activity is supported.
+No illegal activity is supported..
 
